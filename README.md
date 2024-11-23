@@ -20,7 +20,7 @@
 - Investigate more complex model architectures, including a dynamic-architecture model that could be modified to work for a variety of distances from the prediction buffer.
 
 
-
+##
 ### Milestone 3 Work
 
 ## Progress
