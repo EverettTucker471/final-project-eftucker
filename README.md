@@ -1,4 +1,4 @@
-# final-project-eftucker
+# RNN Throughput Time Series Analysis
 
 ### Final Results
 
